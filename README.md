@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Check out my [site](https://jmaldon1.github.io/josh.maldonado.githib.io/) to see the things I've worked on.
 
 <!--
 **jmaldon1/jmaldon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
